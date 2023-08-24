@@ -1,1 +1,1 @@
-# nodejs-mysql
+# sorting-algorithms-js
